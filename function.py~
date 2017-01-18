@@ -63,7 +63,7 @@ tt_ims, tt_labels = tt_ims[0:tt_num], tt_labels[0:tt_num]
 
 # 5. Regularization
 
-Lambda = 0.01
+Lambda = 0.001
 import numpy, math
 a = 2
 b = 3
